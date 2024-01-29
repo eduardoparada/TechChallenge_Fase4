@@ -18,7 +18,7 @@ with container:
                 de previsibilidade.''')
     st.write('''Os arquivos desta análise se encontram no repositório [GitHub](https://github.com/eduardoparada/TechChallenge_Fase4). Lá você irá
                 encontrar também o arquivo Tech_Challenge_Fase_4.ipynb, onde foi desenvolvido o racional para implementação no dashboard e também um arquivo
-                para consumo de um dashboard alternativo no PowerBI com o Dashboard_Tech4 - Grupo 56.pbix''')
+                para consumo de um dashboard alternativo no PowerBI com o nome Dashboard_Tech4 - Grupo 56.pbix''')
 
 # Carrega a imagem
 fluxo = 'Fluxo.jpeg'
