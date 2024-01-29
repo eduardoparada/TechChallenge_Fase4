@@ -16,6 +16,9 @@ with container:
     st.write('''O modelo de previsão selecionado para essa Tech Challenge foi o PROPHET da empresa 
                 Meta, o motivo da utilização desse modelo se da pela facilidade da construção e alto poder 
                 de previsibilidade.''')
+    st.write('''Os arquivos desta análise se encontram no repositório [GitHub](https://github.com/eduardoparada/TechChallenge_Fase4). Lá você irá
+                encontrar também o arquivo Tech_Challenge_Fase_4.ipynb, onde foi desenvolvido o racional para implementação no dashboard e também um arquivo
+                para consumo de um dashboard alternativo no PowerBI com o Dashboard_Tech4 - Grupo 56.pbix''')
 
 # Carrega a imagem
 fluxo = 'Fluxo.jpeg'
